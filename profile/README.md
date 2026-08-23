@@ -5,7 +5,7 @@ Creating an application to identify the presence of government issued personally
 
 ## Team Members
 1. Samyak Sanganeria
-2. [Naga Srinath](https://knsrinath.com)
+2. Naga Srinath
 3. Shinde Kaushik
 4. Himagiri Nandhan
 5. Shashikanth
